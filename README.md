@@ -27,9 +27,9 @@ Fun ASCII art boot screen
 ## Installation
 
 ### Clone the repo
-git clone https://github.com/CoolGuy158/windows0.3.git
+git clone https://github.com/CoolGuy158Wwindows0.3.git
 
-cd windows0.3
+cd Windows0.3
 
 ### Run the Python script
 python "windows 0.3.py"
