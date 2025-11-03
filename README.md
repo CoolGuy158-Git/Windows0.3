@@ -27,11 +27,11 @@ Fun ASCII art boot screen
 ## Installation
 
 ### Clone the repo
-git clone https://github.com/CoolGuy158Wwindows0.3.git
+git clone https://github.com/CoolGuy158-Git/Windows0.3.git
 
 cd Windows0.3
 
-### Run the Python script
+### Run the Python simulator
 python "windows 0.3.py"
 ### or on some systems
 py "windows 0.3.py"
@@ -39,7 +39,8 @@ py "windows 0.3.py"
 ### Optional: make it a .exe file
 pip install pyinstaller
 pyinstaller --onefile --console "windows 0.3.py"
-# The exe will be in dist/windows0.3.exe
+### The exe will be in dist/windows0.3.exe
+
 
 ### Usage
 
