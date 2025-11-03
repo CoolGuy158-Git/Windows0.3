@@ -33,11 +33,16 @@ Open terminal or command prompt and run:
 git clone https://github.com/CoolGuy158/windows0.3.git
 cd windows0.3
 python "windows 0.3.py"
+
 ( or on some systems )
+
 py "windows 0.3.py"
+
 ( optional make it a .exe file)
+
 pip install pyinstaller
 pyinstaller --onefile --console "windows 0.3.py"
+
 ( The exe will be in dist/windows0.3.exe )
 
 ## Usage
