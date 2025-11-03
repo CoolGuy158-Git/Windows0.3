@@ -1,13 +1,12 @@
 # Windows 0.3 Python Simulator
-
-# Description
+## Description
 
 Windows 0.3 is a fun Python-based simulation of a command-line operating system.
 It lets users “boot” into a minimal OS environment, type commands, play mini-games, check RAM usage, run a basic AI chatbot, and explore a fake internet—all in the console.
 
 It’s designed for learning Python, experimenting with loops, conditionals, and functions, while having a bit of chaotic fun.
 
-# Features
+## Features
 
 Boot PC simulation (RAM or storage mode)
 
@@ -25,7 +24,7 @@ Warnings for high RAM usage and BSOD-like events
 
 Fun ASCII art boot screen
 
-# Installation
+## Installation
 
 Make sure you have Python 3.10+ installed.
 
@@ -33,17 +32,15 @@ Open terminal or command prompt and run:
 
 git clone https://github.com/CoolGuy158/windows0.3.git
 cd windows0.3
-python windows0.3.py
-(or on some systems)
-py windows0.3.py
-
-(optional make it a .exe file)
+python "windows 0.3.py"
+( or on some systems )
+py "windows 0.3.py"
+( optional make it a .exe file)
 pip install pyinstaller
-pyinstaller --onefile --console windows0.3.py
-(The exe will be in dist/windows0.3.exe)
+pyinstaller --onefile --console "windows 0.3.py"
+( The exe will be in dist/windows0.3.exe )
 
-
-# Usage
+## Usage
 
 Type boot to start the simulation.
 
@@ -77,7 +74,7 @@ ekdmp – Early keyword detection AI chatbot
 
 And more… type help in the program for full list
 
-# Notes
+## Notes
 
 RAM usage increases as commands are executed. Warnings are displayed when nearing full usage.
 
@@ -85,6 +82,7 @@ Certain commands are intentionally destructive or limited for fun, like del_sys3
 
 AI chatbot responses are randomized and context-sensitive.
 
-# License
+## License
 
 This project is for educational purposes. Feel free to modify and explore the code.
+
