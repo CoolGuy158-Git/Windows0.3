@@ -26,26 +26,21 @@ Fun ASCII art boot screen
 
 ## Installation
 
-Make sure you have Python 3.10+ installed.
-
-Open terminal or command prompt and run:
-
+### Clone the repo
 git clone https://github.com/CoolGuy158/windows0.3.git
 cd windows0.3
+
+### Run the Python script
 python "windows 0.3.py"
-
-( or on some systems )
-
+### or on some systems
 py "windows 0.3.py"
 
-( optional make it a .exe file)
-
+### Optional: make it a .exe file
 pip install pyinstaller
 pyinstaller --onefile --console "windows 0.3.py"
+# The exe will be in dist/windows0.3.exe
 
-( The exe will be in dist/windows0.3.exe )
-
-## Usage
+### Usage
 
 Type boot to start the simulation.
 
